@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-02-24 09:31+0500\n"
+"PO-Revision-Date: 2019-02-24 09:33+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/functions.php:24
+msgid "Widgets"
+msgstr "Widgets"
+
+#: inc/functions.php:30
+msgid "Go Premium"
+msgstr "Premium werden"
+
+#: inc/functions.php:113
+msgid "Please login after using this option."
+msgstr "Bitte loggen Sie sich ein, nachdem Sie diese Option verwendet haben."
+
+#: inc/functions.php:211
+msgid "No Wishlist Found"
+msgstr "Keine Wunschliste gefunden"
+
+#: inc/functions.php:242
+msgid "Golden Flower"
+msgstr "goldene Blume"
+
+#: inc/functions.php:242
+msgid "Purple Flower"
+msgstr "Lila Blume"
+
+#: inc/functions.php:242
+msgid "Grey Alpine"
+msgstr "Grey Alpine"
+
+#: inc/functions.php:244
+msgid "Title"
+msgstr "Titel"
+
+#: inc/functions.php:246
+msgid "Theme"
+msgstr "Thema"
+
+#: inc/functions.php:249
+msgid "Default"
+msgstr "Thema"
+
+#: inc/functions.php:251
+msgid "Premium"
+msgstr "Standard"
+
+#: inc/functions.php:264
+msgid "Download"
+msgstr "Prämie"
+
+#: inc/functions.php:265
+msgid "Support"
+msgstr "Herunterladen"
+
+#: inc/functions.php:266
+msgid "Demo Shots"
+msgstr "Unterstützung"
